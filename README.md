@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning the MERN stack and working on small home projects to expand my understanding  
   
 
-- ⚡ Fun fact: I have worked in the Aberdeen Oil and Gas sector for 15 years  
+- ⚡ Fun fact: I hold a BSc in Computing for Internet & Multimedia 
   
 
 <br/>  
