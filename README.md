@@ -1,7 +1,7 @@
 ### <div align="center">I'm Stuart Nicholson, an aspiring Software Developer looking to upskill to move into the Industry 🚀</div>  
   
 
-- 🌱 I’m currently learning the MERN stack and working on small home projects to expand my understanding  
+- 🌱 I’m currently learning Javascript and working on small home projects to expand my understanding  
   
 
 - ⚡ Fun fact: I hold a BSc in Computing for Internet & Multimedia 
